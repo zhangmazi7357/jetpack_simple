@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jetpak_word_demo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete">delete</string>
+    <string name="insert">insert</string>
+    <string name="textview">TextView</string>
+</resources>
